@@ -59,6 +59,6 @@ const highlightMenu = () => {
       menuLinks.classList.remove('active');
     }
   };
-  
+   
   menuLinks.addEventListener('click', hideMobileMenu);
   navLogo.addEventListener('click', hideMobileMenu);
