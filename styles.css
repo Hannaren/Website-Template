@@ -34,7 +34,6 @@
     background: -webkit-linear-gradient(to top, #0072ff, #00c6ff);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to top, #0072ff, #00c6ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-color: #f7f3e6;
-    /* background-image: linear-gradient(to top, rgba(2,0,36,1) 0%, rgba(0,212,255,1) 100%); */
     background-size: 100%;
     background-clip: text;
     -webkit-background-clip: text;
@@ -229,8 +228,6 @@
 
 .main_content h1 {
     background: #0072ff;  /* fallback for old browsers */
-  /*  background: -webkit-linear-gradient(to top, #0072ff, #00c6ff);   Chrome 10-25, Safari 5.1-6 
-    background: linear-gradient(to top, #0072ff, #00c6ff); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: 100%;
     background-clip: text;
     -webkit-background-clip: text;
@@ -444,8 +441,6 @@
 
 .news h1 {
     background: #0072ff;  /* fallback for old browsers */
-  /*  background: -webkit-linear-gradient(to top, #0072ff, #00c6ff);   Chrome 10-25, Safari 5.1-6 
-    background: linear-gradient(to top, #0072ff, #00c6ff); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: 100%;
     background-clip: text;
     -webkit-background-clip: text;
